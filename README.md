@@ -1,0 +1,3 @@
+- Haloo, I’m @i-is-evil-duck
+- I’m currently learning JavaScript and C++
+- You can reach me on discord @i.is.evil.duck
