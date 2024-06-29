@@ -44,11 +44,11 @@
 
 <p align="center">
   <a href="https://discordapp.com/users/552569616740646932">
-<img src="raw.githubusercontent.com/i-is-evil-duck/i-is-evil-duck/main/logos/discord.webp" width="64" height="64" alt="Discord"/>
+<img src="raw.githubusercontent.com/i-is-evil-duck/i-is-evil-duck/main/logos/discord.png" width="64" height="64" alt="Discord"/>
 </a>
 	 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" width="15px"/>
   <a href="https://www.instagram.com/i_is_evil_duck">
-<img src="raw.githubusercontent.com/i-is-evil-duck/i-is-evil-duck/main/logos/Instagram.webp" width="64" height="64" alt="Instagram"/>
+<img src="raw.githubusercontent.com/i-is-evil-duck/i-is-evil-duck/main/logos/Instagram.png" width="64" height="64" alt="Instagram"/>
   </a>
 </p>
 
