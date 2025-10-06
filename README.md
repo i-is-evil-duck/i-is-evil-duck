@@ -10,7 +10,7 @@
 <h6 align="center">
  <a href="https://discordapp.com/users/552569616740646932">Discord</a>
  •
- <a href="https://evilduckz.live/">Website</a>
+ <a href="https://evilduckz.net/">Website</a>
 </h6>
 
 <p align="center">
@@ -18,27 +18,6 @@
 </p>
 
 &nbsp;
-
-<p align="center">Programs</p>
-
-<p align="center">
-    <a href="https://www.gimp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="64" height="64" alt="Gimp"/>
-  </a>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" width="15px"/>
-  <a href="https://https://www.blender.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="64" height="64" alt="Blender"/>
-</a>
-	 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" width="15px"/>
-  <a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="64" height="64" alt="Python"/>
-  </a>
-</p>
-
-&nbsp;
-
-
-
 
 <p align="center">Contact me!</p>
 
