@@ -7,11 +7,6 @@
  <a href="https://discordapp.com/users/552569616740646932">I.Is.Evil.Duck</a>
 </h3>
 
-<h6 align="center">
- <a href="https://discordapp.com/users/552569616740646932">Discord</a>
- •
- <a href="https://evilduckz.net/">Website</a>
-</h6>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="catppuccin palette" width="400" />
